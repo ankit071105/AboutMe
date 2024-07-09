@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Ankit Kumar</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        Hi I am ankit .
+        \n\n I am currently Pursuing b-tech from SOA University ( ITER ) .
+         \n\n I am an web and mobile developer .
+        \n\n   I am currently working on android development and bakend development for the Web development.
+         \n\n  My achievements in my first year college is , I have won the First Prize in E-summit Organised by the SOA ITER in the collaborations with , Ordissa Goverment .
+         \n\n  I want to be a app developer with having in depth knowledge of app development in all the languages.
+         \n\n  I am very strong in java , dart , swift , kotlin , javascript .
+         \n\n  My hobbies are I love to play cricket , badminton , volleyball .
+        \n\n Beyond academics and coding, I have a strong passion for sports. Playing cricket, badminton, and volleyball not only keeps me active but also instills valuable lessons in teamwork, strategy, and resilience.
+          \n\n  These qualities are essential in both sports and technology, where collaboration and perseverance drive success.
+        \n\n I am committed to exploring new technologies and staying updated with industry trends to deliver innovative solutions.
+
+
+
+
+
+
+    </string>
+</resources>
